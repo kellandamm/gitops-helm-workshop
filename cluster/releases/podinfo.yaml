@@ -31,4 +31,4 @@ spec:
           proxy_hide_header l5d-server-id;
       path: /
       hosts:
-      - .nip.io
+      - 52.191.128.21.nip.io
